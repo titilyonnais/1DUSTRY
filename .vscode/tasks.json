@@ -1,8 +1,0 @@
-{
-    "version": "0.1.0",
-    "command": "Explorer",    
-    "windows": {
-        "command": "Explorer.exe"
-    },
-    "args": ["index.html"]
-}
